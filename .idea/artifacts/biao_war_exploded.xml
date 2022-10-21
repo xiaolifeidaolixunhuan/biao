@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="biao:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/biao_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="biao/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="biao" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
